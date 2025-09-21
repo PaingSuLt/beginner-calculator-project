@@ -9,6 +9,7 @@ body {
 
 #container {
     
+    
     display: flex;
     background-color: #F2E7C3;
     border: 15px ridge #3FFF00;
@@ -111,3 +112,19 @@ body {
     font-size: 25px;
 }
 
+#pAndimg {
+    display: flex;
+    color: white;
+    
+}
+#pAndimg p{
+    margin-left: 20px;
+}
+img {
+    margin-left: 10px;
+    justify-content: center;
+    width: 70px;
+    height: auto;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
